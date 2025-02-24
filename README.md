@@ -1,29 +1,32 @@
-# Google Cybersecurity Certificate Repository
+# Google Cybersecurity Certificate
 
 ## 🎓 About This Repository
-This repository is dedicated to showcasing the projects and hands-on work completed as part of the **Google Cybersecurity Certificate**. It serves as a portfolio of practical applications of security principles, threat mitigation strategies, and real-world cybersecurity challenges.
+This repository is dedicated to showcasing the projects and hands-on work completed as part of the **Google Cybersecurity Certificate**. It serves as a portfolio of practical applications of security tools and principles, threat mitigation strategies, and real-world cybersecurity challenges.
+
+---
+
+## 🔗 Related Links
+- [My Completion Badge](https://www.credly.com/badges/2e78a381-f4e1-437f-a4d4-bb5ddb376ba2/public_url) *(External Link)*
+- [Google Cybersecurity Certificate Overview](https://www.coursera.org/professional-certificates/google-cybersecurity) *(External Link)*
+- [Main Portfolio Repository](https://github.com/your-username/) *(Link back to main portfolio)*
+  
 
 ---
 
 ## 🛠️ Projects & Documentation
-Here are some of the key projects included in this repository:
+### 📂 Python Projects
+This folder contains Python-based cybersecurity projects documented in PDF format.
 
-### 🔹 Project 1: **Network Security Analysis**
-- Description: Conducted a network traffic analysis using Wireshark to identify potential security threats.
-- Tools Used: Wireshark, TCPDump
-- 📂 [View Project](#) *(Replace with actual link once available)*
+#### 🔹 Project 1: **[Project Title](Python/Project1.pdf)**
+- Description: Brief description of the project.
+- 📄 [View Report](Python/Project1.pdf)
 
-### 🔹 Project 2: **Malware Analysis & Detection**
-- Description: Investigated a malware sample and analyzed its behavior using sandboxing techniques.
-- Tools Used: VirusTotal, Any.Run, YARA Rules
-- 📂 [View Project](#)
-
-### 🔹 Project 3: **Incident Response & Log Analysis**
-- Description: Conducted an incident response simulation and analyzed log files to detect anomalies.
-- Tools Used: Splunk, ELK Stack
-- 📂 [View Project](#)
+#### 🔹 Project 2: **[Project Title](Python/Project2.pdf)**
+- Description: Brief description of the project.
+- 📄 [View Report](Python/Project2.pdf)
 
 _(More projects coming soon!)_
+
 
 ---
 
@@ -45,16 +48,10 @@ To provide a visual representation of the projects, this repository also include
 git clone https://github.com/your-username/google-cybersecurity-certificate
 ```
 
----
 
-## 🔗 Related Links
-- [Google Cybersecurity Certificate Overview](https://www.coursera.org/professional-certificates/google-cybersecurity) *(External Link)*
-- [Main Portfolio Repository](https://github.com/your-username/) *(Link back to your main GitHub portfolio)*
-
----
 
 ## 📫 Connect with Me
 <a href="https://linkedin.com/in/samueldabalyhailu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-If you have any questions or suggestions, feel free to reach out! Let's make the digital world a safer place. 🚀
+Feel free to reach out! Let's make the digital world a safer place. 🚀
 
