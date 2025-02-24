@@ -8,32 +8,35 @@ This repository is dedicated to showcasing the projects and hands-on work comple
 ## 🔗 Related Links
 - [My Completion Badge](https://www.credly.com/badges/2e78a381-f4e1-437f-a4d4-bb5ddb376ba2/public_url) *(External Link)*
 - [Google Cybersecurity Certificate Overview](https://www.coursera.org/professional-certificates/google-cybersecurity) *(External Link)*
-- [Main Portfolio Repository](https://github.com/your-username/) *(Link back to main portfolio)*
   
 
 ---
 
-## 🛠️ Projects & Documentation
-### 📂 Python Projects
-This folder contains Python-based cybersecurity projects documented in PDF format.
+## 🚧 Projects
+Documentation of various projects completed under the GCPC with Screenshots and reports for visual representation.
 
-#### 🔹 Project 1: **[Project Title](Python/Project1.pdf)**
-- Description: Brief description of the project.
-- 📄 [View Report](Python/Project1.pdf)
+### 🧰 Security Tool Usage
+#### 🔹 Python Projects: 
+These are beginner Python codes that I wrote as I was learning Python basics from the GCPC. The code is written using Jupyter notebooks while the scenarios and 
+questions are part of the GCPC Python course. The course teaches Python from a security analyst's view hence most of the activities and scenarios are created to emulate
+an analyst's actions.  
+ 🐍 [View Projects](GCPC/Projects/Python)
 
-#### 🔹 Project 2: **[Project Title](Python/Project2.pdf)**
-- Description: Brief description of the project.
-- 📄 [View Report](Python/Project2.pdf)
+#### 🔹 Network Packet Analyser: 
+Using tcpdump to determine network interfaces, capture, store and analyse packets  
+ 📸  [View Sreenshots](GCPC/Projects/NPA)
 
-_(More projects coming soon!)_
+ #### 🔹 Intrusion Detection System: 
+Using Suricata to configure, trigger and examine detection rules.  
+ 📸  [View Sreenshots](GCPC/Projects/IDS)
 
+ #### 🔹 Security Information and Event Management: 
+The SIEM Tool, Google Chronicle is used to simulate alert analysis in a SOC environment.  
+ 📸  [View Sreenshots](GCPC/Projects/SIEM)
 
----
-
-## 📸 Screenshots & Reports
-To provide a visual representation of the projects, this repository also includes:
-- 📷 **Screenshots** of tool outputs and configurations.
-- 📄 **PDF Reports** detailing findings, methodologies, and recommendations.
+ #### 🔹 Basic Hashing Projects: 
+Generating file hashes, using these hashes to compare different files and investigating the hash of a suspicious file using [VirusTotal](https://www.virustotal.com/gui/home/upload)  
+ 📸  [View Sreenshots](GCPC/Projects/Hashes)
 
 ---
 
@@ -45,7 +48,7 @@ To provide a visual representation of the projects, this repository also include
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/google-cybersecurity-certificate
+git clone https://dabaly/GCPC
 ```
 
 
