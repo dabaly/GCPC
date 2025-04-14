@@ -33,17 +33,23 @@ My task was to review the IT manager’s scope, goals, and risk assessment repor
  - [Scope, Goals and Risk Assessment Report](GCPC/Projects/Reports/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
  - [Controls and Compliance Checklist](GCPC/Projects/Reports/Controls%20and%20Compliance%20Checklist.pdf)
 
+---
+
 #### 🔹 Asset Management and Risk Assessment: 
 This activity's aim was to practice performing a risk assessment by evaluating vulnerabilities that commonly threaten business operations. This helps decide how to prioritize resources based on the risk scores each vulnerability is assigned.
 The sample Home accessory inventory includes all the devices in the person's home office and other items in the house.
  - [Risk Register](GCPC/Projects/Reports/Risk%20register.pdf)
  - [Asset Inventory](GCPC/Projects/Reports/Home%20asset%20inventory.pdf)
 
+---
+
 #### 🔹 Security Audit:
 SCENARIO  
 There is an educational technology company that developed an application to help teachers automatically grade assignments. The application handles a wide range of data that it collects from academic institutions, instructors, parents, and students. My team was alerted to a data leak of internal business plans on social media. An investigation by the team discovered that an employee accidentally shared those confidential documents with an external business partner. An audit into the leak is underway to determine how similar incidents can be avoided.
 A supervisor provided me with information regarding the leak. It appears that the principle of least privilege was not observed by employees at the company during a sales meeting. I have been asked to analyze the situation and find ways to prevent it from happening again.
  - [Report](GCPC/Projects/Reports/Data%20leak%20Report.pdf)
+
+---
 
 #### 🔹 Threat Modelling using the PASTA Framework:
 SCENARIO  
@@ -53,10 +59,13 @@ I am performing a threat model of the application using the PASTA framework.
  - [Attack Tree](GCPC/Projects/Reports/PASTA%20attack%20tree.pdf)
  - [Data Flow Diagram](GCPC/Projects/Reports/PASTA%20data%20flow%20diagram.pdf)
 
+---
+
  #### 🔹 Incident Response using the NIST CSF:
  - [NIST CSF Template](GCPC/Projects/Reports/Applying%20the%20NIST%20CSF_.pdf)
  - [Incident Report Analysis](GCPC/Projects/Reports/Incident%20report%20analysis.pdf)
  
+---
  
 ### 🧰 SECURITY TOOLS
 #### 🔹 Python Projects: 
@@ -65,26 +74,68 @@ questions are part of the GCPC Python course. The course teaches Python from a s
 an analyst's actions.  
   [View Projects](GCPC/Projects/Python)
 
+  ---
+
 #### 🔹 Network Packet Analyser: 
 Using tcpdump to:
 - Determine network interfaces
-  ![[GCPC/Projects/NPA/Determine-Interfaces.png]]
-- capture, store and analyse packets  
   
+  ![](GCPC/Projects/NPA/Determine-interfaces.png)
+  
+- Capture Packets
+  
+  ![](GCPC/Projects/NPA/Packet-Background-Capture.png)
+  In Background
+  
+  ![](GCPC/Projects/NPA/Packet-Capture.png)
+  In Foreground
+  
+- Store and analyse packets
+  
+  ![](GCPC/Projects/NPA/tcpdump-Packet-Analysis.png)  
+
+  ---
 
  #### 🔹 Intrusion Detection System: 
-Using Suricata to configure, trigger and examine detection rules.  
-   [View Sreenshots](GCPC/Projects/IDS)
+Using Suricata to:
+- Configure a custom rule
+  
+  ![](GCPC/Projects/IDS/Custom-rule.png)
+- Trigger the rule
+  
+  ![](GCPC/Projects/IDS/Trigger-rule.png)
+- Examine detection rules from eve.json logs.
+  
+  ![](GCPC/Projects/IDS/eve.json1.png)
+  ![](GCPC/Projects/IDS/eve.json2.png)
+
+---
 
  #### 🔹 Security Information and Event Management: 
 The SIEM Tool, Google Chronicle is used to simulate alert analysis in a SOC environment.  
-   [View Sreenshots](GCPC/Projects/SIEM)
 
- #### 🔹 Basic Hashing Projects: 
-Generating file hashes, using these hashes to compare different files and investigating the hash of a suspicious file using [VirusTotal](https://www.virustotal.com/gui/home/upload)  
-   [View Sreenshots](GCPC/Projects/Hashes)
+![](GCPC/Projects/SIEM/SIEM-1.png)
+![](GCPC/Projects/SIEM/SIEM-2.png)
+![](GCPC/Projects/SIEM/SIEM-3.png)
+![](GCPC/Projects/SIEM/SIEM-4.png)
 
 ---
+
+ #### 🔹 Basic Hashing Projects: 
+ Practice on File has generation and analysis using [VirusTotal](https://www.virustotal.com/gui/home/upload)
+ 
+- Generating file hashes
+  
+  ![](GCPC/Projects/Hashes/File-hashes.png)
+- Using these hashes to compare the different files
+  
+  ![](GCPC/Projects/Hashes/Hash2.png)
+  ![](GCPC/Projects/Hashes/Hash3.png)
+- Investigating the hash of a suspicious file
+  
+  ![](GCPC/Projects/Hashes/File-hash.png)
+
+  ---
 
 ## 📫 Connect with Me
 <a href="https://linkedin.com/in/samueldabalyhailu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
