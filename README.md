@@ -6,16 +6,14 @@ This repository is dedicated to showcasing the projects and hands-on work comple
 ---
 
 ## 🔗 Related Links
-- [My Completion Badge](https://www.credly.com/badges/2e78a381-f4e1-437f-a4d4-bb5ddb376ba2/public_url) *(External Link)*
-- [Google Cybersecurity Certificate Overview](https://www.coursera.org/professional-certificates/google-cybersecurity) *(External Link)*
-  
+- [Google Cybersecurity Certificate Overview](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+- [My Completion Badge](https://www.credly.com/badges/2e78a381-f4e1-437f-a4d4-bb5ddb376ba2/public_url) 
 ---
 
 ## 🚀 How to Use This Repository
-1. Browse through the different project folders.
-2. Read descriptions to understand the scope and approach of each project.
-3. View reports and screenshots to get a visual understanding of the work done.
-4. Clone the repository if you wish.
+1. Read descriptions to understand the scope and approach of each project.
+2. View reports and screenshots to get a visual understanding of the work done.
+3. Clone the repository if you wish.
 
 ```bash
 # Clone this repository
@@ -68,8 +66,11 @@ an analyst's actions.
   [View Projects](GCPC/Projects/Python)
 
 #### 🔹 Network Packet Analyser: 
-Using tcpdump to determine network interfaces, capture, store and analyse packets  
-   [View Sreenshots](GCPC/Projects/NPA)
+Using tcpdump to:
+- Determine network interfaces
+  ![[GCPC/Projects/NPA/Determine-Interfaces.png]]
+- capture, store and analyse packets  
+  
 
  #### 🔹 Intrusion Detection System: 
 Using Suricata to configure, trigger and examine detection rules.  
